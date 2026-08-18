@@ -1,0 +1,63 @@
+<resources>
+    <string name="login_username">Имя пользователя</string>
+    <string name="login_action_login">Войти</string>
+    <string name="login_action_register">Зарегистрироваться</string>
+
+    <string name="login_password">Пароль</string>
+    <string name="no_message">Пустое сообщение</string>
+
+    <string name="profile_loading">Загрузка профиля</string>
+    <string name="profile_created_at">Аккаунт создан </string>
+
+    <string name="profile_name">Имя</string>
+    <string name="profile_no_name">Укажите имя</string>
+    <string name="profile_surname">Фамилия</string>
+    <string name="profile_no_surname">Укажите фамилию</string>
+    <string name="profile_bio">Био</string>
+    <string name="profile_no_bio">Напишите о себе</string>
+
+    <string name="profile_update">Обновить профиль</string>
+    <string name="profile_logout">Выйти из профиля</string>
+
+    <string name="app_name">КорпМ</string>
+    <string name="nav_chat">Чаты</string>
+    <string name="nav_contacts">Контакты</string>
+    <string name="nav_profile">Профиль</string>
+    <string name="nav_login">Вход</string>
+
+    <string name="chat_yesterday">Вчера</string>
+
+    <string-array name="chat_day_of_week">
+        <item>Пн</item>
+        <item>Вт</item>
+        <item>Ср</item>
+        <item>Чт</item>
+        <item>Пт</item>
+        <item>Сб</item>
+        <item>Вс</item>
+    </string-array>
+
+    <string name="chat_members">Участники чата</string>
+
+    <string name="chat_info">Информация о чате</string>
+    <string name="chat_edit_display_name">Имя</string>
+    <string name="chat_save_profile">Сохранить</string>
+
+    <string name="chat_direct_chat">Личный чат</string>
+    <string name="chat_group_chat">Групповой чат</string>
+    <string name="chat_created">Создан в </string>
+    <string name="chat_last_seen">Был(а) в </string>
+
+    <string name="common_search">Поиск</string>
+    <string name="contact_last_seen">Был(а) в </string>
+    <string name="contact_last_seen_alt">Был(а) </string>
+    <string name="contact_no_last_seen">Неизвестно</string>
+
+    <string name="group_selected_amount">Выбрано: </string>
+    <string name="group_group_name">Имя группы</string>
+    <string name="group_create_group">Создать группу</string>
+    <string name="group_select_users">Выбор участников</string>
+    <string name="group_tap_hint">Нажмите на пользователя, чтобы добавить в группу</string>
+    <string name="group_no_group_name">Введите имя группы</string>
+
+</resources>

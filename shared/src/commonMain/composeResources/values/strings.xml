@@ -1,0 +1,65 @@
+<resources>
+    <string name="login_username">Username</string>
+    <string name="login_action_login">Login</string>
+    <string name="login_action_register">Register</string>
+
+    <string name="login_password">Password</string>
+    <string name="no_message">Empty message</string>
+
+    <string name="profile_loading">Profile is loading</string>
+    <string name="profile_created_at">Profile was created</string>
+
+    <string name="profile_name">Name</string>
+    <string name="profile_no_name">Enter Name</string>
+    <string name="profile_surname">Surname</string>
+    <string name="profile_no_surname">Enter Surname</string>
+    <string name="profile_bio">Bio</string>
+    <string name="profile_no_bio">Tell about yourself</string>
+
+    <string name="profile_update">Update profile</string>
+    <string name="profile_logout">Logout</string>
+
+    <string name="app_name">CorpM</string>
+    <string name="nav_chat">Chats</string>
+    <string name="nav_contacts">Contacts</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_login">Login</string>
+
+    <string name="chat_yesterday">Yesterday</string>
+
+    <string-array name="chat_day_of_week">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+    </string-array>
+
+    <string name="chat_members">Chat members</string>
+
+    <string name="chat_info">Chat info</string>
+    <string name="chat_edit_display_name">Display name</string>
+    <string name="chat_save_profile">Save</string>
+
+    <string name="chat_direct_chat">Direct chat</string>
+    <string name="chat_group_chat">Group chat</string>
+    <string name="chat_created">Create at </string>
+    <string name="chat_last_seen">Last Seen </string>
+
+    <string name="common_search">Search</string>
+    <string name="contact_last_seen">Was at </string>
+    <string name="contact_last_seen_alt">Was at </string>
+    <string name="contact_no_last_seen">Unknown</string>
+
+    <string name="group_selected_amount">Selected: </string>
+    <string name="group_group_name">Group name</string>
+    <string name="group_create_group">Create group</string>
+    <string name="group_select_users">Select Users</string>
+    <string name="group_tap_hint">Tap users to toggle them in or out of the group.</string>
+    <string name="group_no_group_name">Enter group name </string>
+
+
+
+</resources>
